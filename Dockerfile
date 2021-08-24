@@ -9,3 +9,8 @@ COPY ./app /home/app
 
 CMD ["node", "/home/app/server.js"]
 
+
+
+
+
+
